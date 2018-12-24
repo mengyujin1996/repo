@@ -2,3 +2,6 @@
 
 
 nopassword
+
+提交到GitHub成功
+提交到码云失败，且有乱码
